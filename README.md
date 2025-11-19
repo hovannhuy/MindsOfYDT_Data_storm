@@ -57,7 +57,8 @@ Dashboard includes:
 ### 🚀 Demo Product (Round 1)
 Preliminary results are shown in the following video on GitHub:
 
-![simple_analyzed_Untitled00014096 (2)](https://github.com/user-attachments/assets/75fc495f-24c2-4796-89fc-be6d8ded0452)
+![simple_analyzed_Untitled00014096 (2)](https://github.com/user-attachments/assets/5ab579dc-a2a1-4e61-a60d-120f58545f04)
+
 
 
 ### 🛠️ 5. Structure
