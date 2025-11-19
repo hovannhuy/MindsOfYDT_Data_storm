@@ -5,7 +5,7 @@ A Computer Vision & Biomechanics system that analyzes a golf swing based on prov
 
 ---
 
-## 📜 Giới thiệu
+## 📜 Introduction
 
 **Golf AI Coach** is a supportive AI system capable of:
 
