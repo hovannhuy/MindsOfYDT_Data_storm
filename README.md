@@ -1,4 +1,4 @@
-# 🏌️‍♂️ Golf AI Coach — Phân Tích Tư Thế & Cú Swing Golf (DataStorm 2025)
+# 🏌️‍♂️ Golf AI Coach — Golf Swing and Pose Analysis (DataStorm 2025)
 
 Our project for participation in **DataStorm 2025** in the following topic:” Sports behaviours analysis”
 A Computer Vision & Biomechanics system that analyzes a golf swing based on provided videos.
